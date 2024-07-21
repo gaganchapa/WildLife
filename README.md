@@ -54,7 +54,7 @@ To run the Elephant Detection App, follow these steps:
    ```bash
    pip install req.txt
    ```
-3. ** Run the Streamlit app:**
+3. **Run the Streamlit app:**
    ```bash
    streamlit run main_page.py
    ```
