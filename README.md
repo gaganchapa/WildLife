@@ -33,6 +33,7 @@ The Real-Time Elephant Detection web app utilizes the advanced YOLOv8 (You Only 
 ![](https://github.com/gaganchapa/WildLife/blob/main/pred.png)
 
 <h2 align="center">Dash Board</h2>
+
 ![](https://github.com/gaganchapa/WildLife/blob/main/dash.png)
 Dashboard provides a comprehensive suite of features for understanding elephant movements and monitoring the performance of detection systems:
 
@@ -62,7 +63,19 @@ To run the Elephant Detection App, follow these steps:
    ```bash
    streamlit run main_page.py
    ```
-
+## Conclusion:
+In today’s rapidly evolving world, transportation advancements often pose environmental risks. Railway expansion
+increases the threat of train-animal collisions, jeopardizing wildlife and human safety. Rail Guard offers a
+groundbreaking solution by merging environmental sustainability with technological innovation. Unlike conventional
+methods, Rail Guard utilizes real-time detection systems and advanced deep-learning algorithms to mitigate
+train-animal collisions, preserving natural wildlife movements and habitats. While the current system focuses on
+preventing train-elephant collisions, there’s potential to extend its application to various animal species and regions.
+To overcome data limitations, we can employ Generative Adversarial Networks (GANs) and data augmentation
+techniques to enhance the dataset’s quality and diversity. Improving user experience, our enhanced dashboard will
+offer insights into system health. Integrating Grounding DINO, a Zero-Shot Object Detection model, will automate
+detection globally, reducing human intervention. Rail Guard stands out for its effectiveness, cost-efficiency, and
+adaptability in tackling the complex challenges of infrastructure growth and wildlife conservation, making it a leading
+solution for sustainable development.
    
 
 
