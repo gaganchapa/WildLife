@@ -41,7 +41,15 @@ Dashboard provides a comprehensive suite of features for understanding elephant 
 * Real-Time Monitoring of AI Model: Tracks the performance of the elephant detection model at each pole, presenting metrics such as prediction loss, CPU and memory usage, and power consumption. Integration with the Weights & Biases (wandb) monitoring system provides real-time performance metrics and report generation capabilities, ensuring the system's effectiveness and reliability.
 
 
+## Installation and Setup
 
+To run the Elephant Detection App, follow these steps:
 
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/RailGuard.git
+   cd RailGuard
+   ```
+2.
 
 
