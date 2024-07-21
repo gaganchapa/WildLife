@@ -14,7 +14,7 @@ adverse impacts caused by railway expansion on various animal species, thus rais
 about balancing progress and preservation to reach a sustainable existence between railways and
 forests.
 
-Number of Elephants killed on railway tracks in Kerala, India
+## Number of Elephants killed on railway tracks in Kerala, India
 ![Rail Guard](https://github.com/gaganchapa/WildLife/blob/main/tab.png)
 
 Real-Time Elephant Detection Web App
