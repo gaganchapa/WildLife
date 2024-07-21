@@ -50,6 +50,15 @@ To run the Elephant Detection App, follow these steps:
    git clone https://github.com/yourusername/RailGuard.git
    cd RailGuard
    ```
-2.
+2. **Install the required dependencies:**
+   ```bash
+   pip install req.txt
+   ```
+3. ** Run the Streamlit app:**
+   ```bash
+   streamlit run main_page.py
+   ```
+
+   
 
 
